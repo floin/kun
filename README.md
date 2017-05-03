@@ -1,2 +1,2 @@
 # kun
-my first iconpack
+my first android iconpack
