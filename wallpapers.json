@@ -1,28 +1,24 @@
 {
-   "wallpapers": [
-      {
-         "author": "Floin collect",
-         "url": "https://public.lightpic.info/image/5061_59098A140.jpg",
-         "name": "Under the Sky",
-         "thumbnail": "https://public.lightpic.info/thumb/5061_59098A140.jpg"
-      },
-      {
-         "author": "Floin collect",
-         "url": "https://public.lightpic.info/image/25FE_59099B4A0.jpg",
-         "name": "Mountain Top",
-         "thumbnail": "https://public.lightpic.info/thumb/25FE_59099B4A0.jpg"
-      },
-      {
-         "author": "Floin collect",
-         "url": "https://public.lightpic.info/image/DDF3_59099B970.jpg",
-         "name":"Girl under water",
-         "thumbnail": "https://public.lightpic.info/thumb/DDF3_59099B970.jpg"
-      },
-      {
-         "author": "Floin collect",
-         "url": "https://public.lightpic.info/image/6233_59099C520.jpg",
-         "name": "Sakura girl",
-         "thumbnail": "https://public.lightpic.info/thumb/6233_59099C520.jpg"
-      },
-   ]
+    "wallpapers": [
+        {
+            "author": "Floin collect",
+            "url": "https://public.lightpic.info/image/E728_595D13E60.jpg",
+            "name": "Material"
+        },
+        {
+            "author": "Floin collect",
+            "url": "https://public.lightpic.info/image/5EC0_595D13E70.jpg",
+            "name": "Misc"
+        },
+        {
+            "author": "Floin collect",
+            "url": "https://public.lightpic.info/image/479D_595D13E70.jpg",
+            "name": "Misc2"
+        },
+        {
+            "author": "Floin collect",
+            "url": "https://public.lightpic.info/image/9A2B_595D13E80.jpg",
+            "name": "Space"
+        }
+    ]
 }
