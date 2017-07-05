@@ -3,22 +3,26 @@
         {
             "author": "Floin collect",
             "url": "https://public.lightpic.info/image/E728_595D13E60.jpg",
-            "name": "Material"
+            "name": "Material",
+			"thumbnail": ""
         },
         {
             "author": "Floin collect",
             "url": "https://public.lightpic.info/image/5EC0_595D13E70.jpg",
-            "name": "Misc"
+            "name": "Misc",
+			"thumbnail": ""
         },
         {
             "author": "Floin collect",
             "url": "https://public.lightpic.info/image/479D_595D13E70.jpg",
-            "name": "Misc2"
+            "name": "Misc2",
+			"thumbnail": ""
         },
         {
             "author": "Floin collect",
             "url": "https://public.lightpic.info/image/9A2B_595D13E80.jpg",
-            "name": "Space"
+            "name": "Space",
+			"thumbnail": ""
         }
     ]
 }
